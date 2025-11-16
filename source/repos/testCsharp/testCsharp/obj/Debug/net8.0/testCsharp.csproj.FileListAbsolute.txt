@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\testCsharp\testCsharp\bin\Debug\net8.0\testCsharp.exe
+C:\Users\ADMIN\source\repos\testCsharp\testCsharp\bin\Debug\net8.0\testCsharp.deps.json
+C:\Users\ADMIN\source\repos\testCsharp\testCsharp\bin\Debug\net8.0\testCsharp.runtimeconfig.json
+C:\Users\ADMIN\source\repos\testCsharp\testCsharp\bin\Debug\net8.0\testCsharp.dll
+C:\Users\ADMIN\source\repos\testCsharp\testCsharp\bin\Debug\net8.0\testCsharp.pdb
+C:\Users\ADMIN\source\repos\testCsharp\testCsharp\obj\Debug\net8.0\testCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\testCsharp\testCsharp\obj\Debug\net8.0\testCsharp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\testCsharp\testCsharp\obj\Debug\net8.0\testCsharp.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\testCsharp\testCsharp\obj\Debug\net8.0\testCsharp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\testCsharp\testCsharp\obj\Debug\net8.0\testCsharp.dll
+C:\Users\ADMIN\source\repos\testCsharp\testCsharp\obj\Debug\net8.0\refint\testCsharp.dll
+C:\Users\ADMIN\source\repos\testCsharp\testCsharp\obj\Debug\net8.0\testCsharp.pdb
+C:\Users\ADMIN\source\repos\testCsharp\testCsharp\obj\Debug\net8.0\testCsharp.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\testCsharp\testCsharp\obj\Debug\net8.0\ref\testCsharp.dll

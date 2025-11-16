@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\thamso\thamso\bin\Debug\thamso.exe.config
+C:\Users\ADMIN\source\repos\thamso\thamso\bin\Debug\thamso.exe
+C:\Users\ADMIN\source\repos\thamso\thamso\bin\Debug\thamso.pdb
+C:\Users\ADMIN\source\repos\thamso\thamso\obj\Debug\thamso.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\thamso\thamso\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\source\repos\thamso\thamso\obj\Debug\App.g.cs
+C:\Users\ADMIN\source\repos\thamso\thamso\obj\Debug\thamso_MarkupCompile.cache
+C:\Users\ADMIN\source\repos\thamso\thamso\obj\Debug\thamso_MarkupCompile.lref
+C:\Users\ADMIN\source\repos\thamso\thamso\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\source\repos\thamso\thamso\obj\Debug\thamso.g.resources
+C:\Users\ADMIN\source\repos\thamso\thamso\obj\Debug\thamso.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\thamso\thamso\obj\Debug\thamso.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\thamso\thamso\obj\Debug\thamso.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\thamso\thamso\obj\Debug\thamso.exe
+C:\Users\ADMIN\source\repos\thamso\thamso\obj\Debug\thamso.pdb

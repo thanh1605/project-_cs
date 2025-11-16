@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\batap22.5\bin\Debug\batap22.5.exe.config
+C:\Users\ADMIN\source\repos\batap22.5\bin\Debug\batap22.5.exe
+C:\Users\ADMIN\source\repos\batap22.5\bin\Debug\batap22.5.pdb
+C:\Users\ADMIN\source\repos\batap22.5\obj\Debug\batap22.5.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\batap22.5\obj\Debug\batap22._5.Form1.resources
+C:\Users\ADMIN\source\repos\batap22.5\obj\Debug\batap22._5.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\batap22.5\obj\Debug\batap22.5.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\batap22.5\obj\Debug\batap22.5.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\batap22.5\obj\Debug\batap22.5.exe
+C:\Users\ADMIN\source\repos\batap22.5\obj\Debug\batap22.5.pdb

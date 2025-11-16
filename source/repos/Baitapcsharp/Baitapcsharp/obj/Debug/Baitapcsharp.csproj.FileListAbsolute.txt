@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\Baitapcsharp\Baitapcsharp\bin\Debug\Baitapcsharp.exe.config
+C:\Users\ADMIN\source\repos\Baitapcsharp\Baitapcsharp\bin\Debug\Baitapcsharp.exe
+C:\Users\ADMIN\source\repos\Baitapcsharp\Baitapcsharp\bin\Debug\Baitapcsharp.pdb
+C:\Users\ADMIN\source\repos\Baitapcsharp\Baitapcsharp\obj\Debug\Baitapcsharp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Baitapcsharp\Baitapcsharp\obj\Debug\Baitapcsharp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Baitapcsharp\Baitapcsharp\obj\Debug\Baitapcsharp.exe
+C:\Users\ADMIN\source\repos\Baitapcsharp\Baitapcsharp\obj\Debug\Baitapcsharp.pdb
